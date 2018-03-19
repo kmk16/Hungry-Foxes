@@ -1,0 +1,21 @@
+h1 {
+  color: white;
+}
+h2{
+  color: #ff3300;
+}
+img {
+  margin: 40px 0px 0px 0px;
+  border: 7px solid orange;
+  border-radius: 20px;
+}
+body {
+  font-family: helvetica, sans-serif;
+}
+
+h3{  color: #ff3300;
+}
+
+.jumbotron{
+background-color: #ffc266;
+}
